@@ -45,6 +45,6 @@ This would a slow journey, especially because I'll be building this in a from th
 This project isn't set up for code contirbutions (yet? _maybe_). But to feel free to chat / comment / critic things here. And when I have the energy / time, I might reply 🙂.
 
 ## TODO:
+- [x] Create repo and add link to [`chatterbox-react`](https://github.com/iam-kevin/chatterbox-react)
 - [ ] Create repo and add link to `chatterbox-service-go`
 - [ ] Create repo and add link to `kyc-service-go`
-- [ ] Create repo and add link to `chatterbox-react`
