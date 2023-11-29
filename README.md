@@ -6,7 +6,7 @@ This is a repository to help me gain confidence in building in [Go](https://go.d
 
 I'll be building a chat service that will do the following:
 
-- Allow users to be created using a username. upon creation, you'll be prompted to add in a name and a NIDA-like information as well as prompting them to create a 4-digit pin.
+- Allow users to be created using a username. Upon creation, a user will be prompted to add in a name and a NIDA-like (SSN-like) information as well as prompting them to create a 4-digit pin.
 - Allow users to join room by typing `/join <chatroom-id>`
 - In the chatroom, the users can send money to others by typing `/send <username> <amount>`, to confirm the transfer, they user will need to authorize by typing in their 4-digit pin.
 - Users can leave the chat room by typing `/leave`
