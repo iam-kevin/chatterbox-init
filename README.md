@@ -46,5 +46,5 @@ This project isn't set up for code contirbutions (yet? _maybe_). But to feel fre
 
 ## TODO:
 - [x] Create repo and add link to [`chatterbox-react`](https://github.com/iam-kevin/chatterbox-react)
-- [ ] Create repo and add link to `chatterbox-service-go`
+- [x] Create repo and add link to [`go-chatterbox-service`](https://github.com/iam-kevin/go-chatterbox-service)
 - [ ] Create repo and add link to `kyc-service-go`
